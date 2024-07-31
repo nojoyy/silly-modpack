@@ -15,7 +15,9 @@ Early list, likely compatibility issues
 
 *** Create
 
-**** Create Guns
+**** Create: Alloyed Guns
+
+**** Create Slice & Dice
 
 **** TODO Tweak Create like Above and Beyond
 
@@ -23,15 +25,25 @@ Early list, likely compatibility issues
 
 *** JEI
 
+**** Just Enough Archaeology
+
+**** Just Enough Professions
+
+**** Just Enough Resources
+
 *** Journey Map
+
+*** Structory
+
+*** Terralith
 
 *** Quark
 
 *** Waystones
 
-** Cooking/Food
+*** YUNG's
 
-*** Cooking for Blockheads
+** Cooking/Food
 
 *** Croptopia
 
@@ -55,21 +67,79 @@ Early list, likely compatibility issues
 
 *** Traveler's Backpacks
 
-** Misc
-
-*** Ammendments
-
-*** Comforts
+** Compatibility & QOL
 
 *** Mouse Tweaks
 
 *** Easy Villagers
+
+*** Almost Unified
+
+*** AppleSkin
+
+*** BetterF3
+
+*** Clean Swing Through Grass
+
+*** Clumps
+
+*** Dark Mode Everywhere
+
+*** DefaultSettings
+
+*** Ding
+
+*** Durability Tooltip
+
+*** Dyenamics
+
+**** Dyenamics and Friends
+
+*** Entity Culling
+
+*** Extreme Sound Muffler
+
+*** Fast Leaf Decay
+
+*** FastSuite
+
+**** FastFurnace
+
+**** FastWorkbench
+
+*** FTB Chunks
+
+*** Fuel Goes Here
+
+*** Inventory Essentials
+
+*** Login Protection
+
+*** No Farmland Trample
+
+*** Polymorph
+
+*** Spark
+
+*** TrashSlot
+
+*** Wither Skeleton Tweaks
+
+** Misc
+
+*** Amendments
+
+*** Comforts
 
 *** Supplementaries
 
 *** Naturalist
 
 *** Macaw's
+
+*** Chimes
+
+*** Handcrafted
 
 
 
