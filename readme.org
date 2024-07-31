@@ -1,0 +1,75 @@
+#+TITLE: Minecraft Modpack Readme
+#+AUTHOR: The Lads
+
+* TODO Minecraft Version
+Figure out best mc version to use
+
+* TODO Modlist
+Early list, likely compatibility issues
+
+** Core Mods
+
+*** Aquamirae
+
+*** Biomes O' Plenty
+
+*** Create
+
+**** Create Guns
+
+**** TODO Tweak Create like Above and Beyond
+
+*** Graves
+
+*** JEI
+
+*** Journey Map
+
+*** Quark
+
+*** Waystones
+
+** Cooking/Food
+
+*** Cooking for Blockheads
+
+*** Croptopia
+
+*** Pam's Harvestcraft
+
+*** Farmer's Delight
+
+*** End's Delight
+
+** Performance
+
+*** Iris
+
+*** Rubidium
+
+** Storage
+
+*** Functional Storage
+
+*** Sophisticated Storage
+
+*** Traveler's Backpacks
+
+** Misc
+
+*** Ammendments
+
+*** Comforts
+
+*** Mouse Tweaks
+
+*** Easy Villagers
+
+*** Supplementaries
+
+*** Naturalist
+
+*** Macaw's
+
+
+
