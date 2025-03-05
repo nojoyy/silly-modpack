@@ -1,25 +1,32 @@
 #+TITLE: Minecraft Modpack Readme
 #+AUTHOR: The Lads
 
-* TODO Minecraft Version
-Figure out best mc version to use
+* Minecraft Version
+1.19.2
+(based on versioning for Abyssal Ascent for compatibility)
+(1.19 added Deep Dark, seems like most recent meaningful content update)
 
-* TODO Modlist
-Early list, likely compatibility issues
+* Modlist
+All mods need to function on 1.19.2 and play nice with each other
+Double-check to make sure compat layer mods aren't overlapping
 
 ** Core Mods
 
 *** Aquamirae
 
-*** Biomes O' Plenty
+*** The Undergarden (?)
+
+**** TODO config undergarden to be below bedrock with immersive portals
+
+*** Amplified Nether
+
+*** Nullscape
 
 *** Create
 
-**** Create: Alloyed Guns
-
 **** Create Slice & Dice
 
-**** TODO Tweak Create like Above and Beyond
+**** TODO Tweak Create like Above and Beyond (?)
 
 *** Graves
 
@@ -33,9 +40,13 @@ Early list, likely compatibility issues
 
 *** Journey Map
 
+*** Lootr
+
 *** Structory
 
 *** Terralith
+
+*** Tectonic
 
 *** Quark
 
@@ -79,7 +90,11 @@ Early list, likely compatibility issues
 
 *** BetterF3
 
+*** Better Than Mending
+
 *** Clean Swing Through Grass
+
+*** ClothConfig
 
 *** Clumps
 
@@ -95,9 +110,15 @@ Early list, likely compatibility issues
 
 **** Dyenamics and Friends
 
+*** Easy Anvils
+
+*** Easy Magic
+
 *** Entity Culling
 
 *** Extreme Sound Muffler
+
+*** Falling Leaves
 
 *** Fast Leaf Decay
 
@@ -119,9 +140,19 @@ Early list, likely compatibility issues
 
 *** Polymorph
 
+*** Right Click Harvest
+
+*** Shulker Box Tooltip
+
+*** Soul Fired
+
+*** Sound Physics Remastered
+
 *** Spark
 
 *** TrashSlot
+
+*** Universal Bone Meal
 
 *** Wither Skeleton Tweaks
 
